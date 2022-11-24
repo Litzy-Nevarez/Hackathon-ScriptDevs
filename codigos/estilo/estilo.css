@@ -1,0 +1,42 @@
+html
+{
+	border: 0;
+	height: 100%;
+}
+body
+{
+	font-family:arial;
+	font-size:20px;
+	min-width:800px;
+	min-height: 99%;
+}
+input
+{
+	font-size:17px;
+	height:20px;
+}
+select
+{
+	font-size:17px;
+	height:20px;
+}
+h3
+{
+	color:#5A0202;
+}
+h2
+{
+	color:#5A0202;
+}
+h1
+{
+	color:#5A0202;
+}
+p
+{
+	color:#5A0202;
+}
+a
+{
+	color:#5A0202;
+}
