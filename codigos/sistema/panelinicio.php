@@ -2,7 +2,7 @@
 		echo "
 		<span id='perfil' style='position:absolute;top:120px;left:400px;width:calc(100% - 800px);min-height:500px;min-width:300px;z-index:400'>
 		<br>
-			<button id='nuevaP' style='background-color:#5A0202;font-size:20px;min-width:160px;min-height:40px'><a style='color:white;text-decoration:none' href=''>Nueva publicación</button></a><br>
+			<button id='nuevaP' style='background-color:#5A0202;font-size:20px;min-width:160px;min-height:40px'><a style='color:white;text-decoration:none' href='nuevapublicacion.php'>Nueva publicación</button></a><br>
 			
 			<br>
 			<table style='font-size:18px'>

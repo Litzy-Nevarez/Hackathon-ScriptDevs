@@ -53,7 +53,7 @@
 		</span>
 
 		<span id='circulos' style='position:fixed;top:120px;left:calc(100% - 360px);width:350px;min-height:500px;visibility:hidden'><p align='center' style='font-size:40px;'><b>Círculos</b>
-		<button id='inscribirse4' style='background-color:#5A0202;font-size:20px;min-width:160px;min-height:40px'><a style='color:white;text-decoration:none' href='sistema/eventoregistro.php''>Crear Nuevo Círculo</button></a><br>
+		<button id='inscribirse4' style='background-color:#5A0202;font-size:20px;min-width:160px;min-height:40px'><a style='color:white;text-decoration:none' href='nuevocirculo.php''>Crear Nuevo Círculo</button></a><br>
 		</p>
 
 		
